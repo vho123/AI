@@ -41,9 +41,9 @@ Import data from CSV
 
 ![Step 1 1](https://user-images.githubusercontent.com/50817966/227844793-15a3bbd1-75ff-47f3-8b9e-c6dab20e3baf.png)
 
-![Step 1 2](https://user-images.githubusercontent.com/50817966/227844810-b9c11429-9be5-4248-bb39-18256ec94889.png)
+![Step 1 2](https://user-images.githubusercontent.com/50817966/227909959-c4e1d835-6ae6-4c3f-b462-51bffb9f392b.png)
 
-![Step 1 3](https://user-images.githubusercontent.com/50817966/227844822-6a65f7e8-b50d-4409-9ee9-96e8a64caebb.png)
+![Step 1 2 1](https://user-images.githubusercontent.com/50817966/227909845-1583d533-5865-472a-96ce-7fe8d5e701b0.png)
 
 ![Step 1 4](https://user-images.githubusercontent.com/50817966/227844841-74d4f952-9c5c-46cf-98bd-1a70118636b0.png)
 
@@ -91,12 +91,9 @@ Import package
 
 ![image](https://user-images.githubusercontent.com/50817966/227853900-81592d8b-1e99-4454-b0a0-2777445c5be8.png)
 
-![image](https://user-images.githubusercontent.com/50817966/227848578-60928a42-e857-4460-b6e8-d515b00dbf8a.png)
+![image](https://user-images.githubusercontent.com/50817966/227911203-cfe4a7f3-3a61-433e-97cb-1d174cf1da8d.png)
 
-![image](https://user-images.githubusercontent.com/50817966/227848351-05bada7f-f3ea-4639-9825-a9cb239727ae.png)
-
-![image](https://user-images.githubusercontent.com/50817966/227848746-f94758db-cd6e-44bd-af76-23af66670196.png)
-
+![image](https://user-images.githubusercontent.com/50817966/227911929-c403c402-6ba5-4c04-80b1-1f453e09e235.png)
 
 Add the connections needed.
 ![image](https://user-images.githubusercontent.com/50817966/227848960-931d19ae-9c16-4f84-afa0-f3d59c274fc7.png)
@@ -120,26 +117,9 @@ Dataverse
 
 ![image](https://user-images.githubusercontent.com/50817966/227849572-f099f68b-7daf-4224-a066-0da413027f52.png)
 
-![image](https://user-images.githubusercontent.com/50817966/227849698-c103346b-d3a0-4e04-b2de-b66de440867d.png)
-
 ![image](https://user-images.githubusercontent.com/50817966/227849773-a481c5ea-f57c-416a-841e-85f058312a0c.png)
 
-When you see import failed, click "Save as new flow".
 
-![image](https://user-images.githubusercontent.com/50817966/227854305-d14229ac-8115-454e-96ab-bf2b60a3ed10.png)
-
-![image](https://user-images.githubusercontent.com/50817966/227854392-88e72344-aa7e-4cc5-8b6f-33e9404b01aa.png)
-
-![image](https://user-images.githubusercontent.com/50817966/227775180-cf060848-a781-4b19-9522-18504c75bb36.png)
-
-![image](https://user-images.githubusercontent.com/50817966/227775213-bd9eaf82-342b-4235-b03a-330af8253144.png)
-![image](https://user-images.githubusercontent.com/50817966/227775240-64b149f9-4ef3-47ae-8eae-0da691430230.png)
-
-Remove "Prediction" and "Add a new row"
-
-![image](https://user-images.githubusercontent.com/50817966/227860758-ec180dfc-f0e3-4b19-9777-6a7652a7c753.png)
-
-Save the flow.
 
 ![image](https://user-images.githubusercontent.com/50817966/227860864-519ebd62-ee1b-4bf4-9601-847fda888a37.png)
 
@@ -171,7 +151,9 @@ Select the table we created at the beginning (prediction result table).
 
 Do the field mapping: date,Temperature,Humidity,Is_Holiday,Holiday_soon_2days_before,Holiday_ending_soon,Weekday,Traffic_last_week,Prediction(from AI builder output)
 
-Save the flow and test run.
+Save the flow, turn on thr flow and test run.
+
+![image](https://user-images.githubusercontent.com/50817966/227912870-f426da43-5f1b-437b-b803-2d7da8f050f3.png)
 
 ![image](https://user-images.githubusercontent.com/50817966/227863818-fd7f7757-d81b-438a-a66e-c174b1154eae.png)
 
