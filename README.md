@@ -151,9 +151,13 @@ Select the table we created at the beginning (prediction result table).
 
 Do the field mapping: date,Temperature,Humidity,Is_Holiday,Holiday_soon_2days_before,Holiday_ending_soon,Weekday,Traffic_last_week,Prediction(from AI builder output)
 
-Save the flow, turn on thr flow and test run.
+Save the flow, turn on the flow
 
 ![image](https://user-images.githubusercontent.com/50817966/227912870-f426da43-5f1b-437b-b803-2d7da8f050f3.png)
 
-![image](https://user-images.githubusercontent.com/50817966/227863818-fd7f7757-d81b-438a-a66e-c174b1154eae.png)
+Run the flow and view the flow detail by clicking on the temp-stamp
+
+![image](https://user-images.githubusercontent.com/50817966/227913600-033978cd-58eb-4b80-b209-5f0c9faaef58.png)
+
+
 
