@@ -33,7 +33,8 @@ Wait when it is deploying. Swicth environment.
 ![image](https://user-images.githubusercontent.com/50817966/227870037-6af2e852-247c-4c14-81b1-64cac516dfca.png)
 
 
-
+Go to Power Apps. 
+make.powerapps.com
 
 Import data from CSV
 ![Step 1](https://user-images.githubusercontent.com/50817966/227844722-ad9e5ac6-579c-44a5-8552-b8c028c0d865.png)
