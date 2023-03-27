@@ -9,6 +9,32 @@ Download URL (holiday): https://www.1823.gov.hk/common/ical/en.json
 
 #2 Training AI builder
 
+Login to Power Platform Admin Center
+https://admin.powerplatform.microsoft.com/home
+
+Click New
+
+![image](https://user-images.githubusercontent.com/50817966/227869168-a85f65e6-d0e8-4dc5-8328-6cf950f0c847.png)
+
+Enter name and type
+
+![image](https://user-images.githubusercontent.com/50817966/227869456-1213cbf4-67ee-4971-a4f9-e4788c4a6252.png)
+
+Enable Create database; 
+
+Next
+
+![image](https://user-images.githubusercontent.com/50817966/227869722-59f3ef2b-1e2f-4928-8441-3ccd025623fc.png)
+
+Save and done!
+
+Wait when it is deploying. Swicth environment.
+
+![image](https://user-images.githubusercontent.com/50817966/227870037-6af2e852-247c-4c14-81b1-64cac516dfca.png)
+
+
+
+
 Import data from CSV
 ![Step 1](https://user-images.githubusercontent.com/50817966/227844722-ad9e5ac6-579c-44a5-8552-b8c028c0d865.png)
 
