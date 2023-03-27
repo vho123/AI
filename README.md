@@ -81,6 +81,11 @@ After creating tables for training data and prediction data, let's go to create 
 
 
 #3 Power Automate Cloud Flow
+
+Login Power Automate 
+
+make.powerautomate.com
+
 Import package
 ![image](https://user-images.githubusercontent.com/50817966/227775312-860d89b0-2c66-4334-b0b5-51cb2939297f.png)
 
