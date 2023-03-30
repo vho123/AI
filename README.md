@@ -63,6 +63,13 @@ Import data from CSV
 ![Step 1 9](https://user-images.githubusercontent.com/50817966/227844904-a9ed9154-5277-4d07-b111-d523383c337b.png)
 
 Repeat the above steps on another file.
+
+Make sure the data type is detected correctly.
+
+![image](https://user-images.githubusercontent.com/50817966/228717241-f6ec412a-ac32-4435-bb70-50bccef7622b.png)
+
+![image](https://user-images.githubusercontent.com/50817966/228717412-1f2518b7-ad68-4a81-81a9-7c4a40d82ed1.png)
+
 ![Step 1 10](https://user-images.githubusercontent.com/50817966/227844916-fcb18cc5-f764-4738-9448-1692814f91f2.png)
 
 After creating tables for training data and prediction data, let's go to create prediction model.
