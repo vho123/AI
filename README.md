@@ -136,13 +136,19 @@ Dataverse
 
 ![image](https://user-images.githubusercontent.com/50817966/227849773-a481c5ea-f57c-416a-841e-85f058312a0c.png)
 
+![image](https://user-images.githubusercontent.com/50817966/228719200-b9c94523-e224-4247-bd52-80ec31c5faeb.png)
+
+Click edit to open the flow content
+
+![image](https://user-images.githubusercontent.com/50817966/228719413-6520c300-5fd1-4dda-9fad-91af8538fbbb.png)
+
+![image](https://user-images.githubusercontent.com/50817966/228719528-22619e2a-430b-4c71-a901-f8bc3b4b15c9.png)
 
 
-![image](https://user-images.githubusercontent.com/50817966/227860864-519ebd62-ee1b-4bf4-9601-847fda888a37.png)
+Add an action after "get Traffic last week"
 
-Add a new step
+![image](https://user-images.githubusercontent.com/50817966/228719690-2b091268-c043-4d2c-b9a6-eb9716610cf3.png)
 
-![image](https://user-images.githubusercontent.com/50817966/227861321-9b0d4e95-2680-4690-91f5-6d32f8550845.png)
 
 Choose an operation - AI Builder - Predict
 
@@ -175,6 +181,12 @@ Save the flow, turn on the flow
 Run the flow and view the flow detail by clicking on the temp-stamp
 
 ![image](https://user-images.githubusercontent.com/50817966/227913600-033978cd-58eb-4b80-b209-5f0c9faaef58.png)
+
+Once completed, check if a new row added to table "Sales Model Prediction"
+
+![image](https://user-images.githubusercontent.com/50817966/228720644-8dbddc2e-c5f0-40a4-9b0a-bd5a482a8fa1.png)
+
+Congratulation! You have completed the lab exercise.
 
 
 
