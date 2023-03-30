@@ -28,13 +28,18 @@ Next
 
 Save and done!
 
-Wait when it is deploying. Swicth environment.
+Wait when it is deploying. 
+
+Go to Power Apps. 
+
+make.powerapps.com
+
+Swicth environment.
 
 ![image](https://user-images.githubusercontent.com/50817966/227870037-6af2e852-247c-4c14-81b1-64cac516dfca.png)
 
 
-Go to Power Apps. 
-make.powerapps.com
+
 
 Import data from CSV
 ![Step 1](https://user-images.githubusercontent.com/50817966/227844722-ad9e5ac6-579c-44a5-8552-b8c028c0d865.png)
@@ -61,6 +66,11 @@ Repeat the above steps on another file.
 ![Step 1 10](https://user-images.githubusercontent.com/50817966/227844916-fcb18cc5-f764-4738-9448-1692814f91f2.png)
 
 After creating tables for training data and prediction data, let's go to create prediction model.
+
+Start Trial if you have not enabled that before.
+
+![image](https://user-images.githubusercontent.com/50817966/228712376-75ff807d-e11e-44be-a0ec-bbd3c5720f73.png)
+
 ![Step 2](https://user-images.githubusercontent.com/50817966/227847437-06bc948e-da11-4ee1-99a7-4cbaa94cc323.png)
 
 ![Step 2 1](https://user-images.githubusercontent.com/50817966/227847465-9eeadbee-2120-4236-83fb-c54a74587fba.png)
