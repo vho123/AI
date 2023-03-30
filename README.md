@@ -1,3 +1,28 @@
+#0 Preparation
+
+Go to this URL in browser, https://github.com/vho123/AI
+
+CLick on below files,
+
+![image](https://user-images.githubusercontent.com/50817966/228743354-1fb49876-0689-4415-a707-02e27411c03d.png)
+
+Click "Raw"
+
+![image](https://user-images.githubusercontent.com/50817966/228743460-5c21e2f6-ebe3-4d43-bdc1-86aa7e6abe55.png)
+
+Right click and "Save as..."
+
+![image](https://user-images.githubusercontent.com/50817966/228743661-a23bf7c3-1054-4b59-87cc-677158a646d6.png)
+
+Store at a location like C:\ or desktop (Remember this path!!)
+
+Repeat on other CSV file.
+
+For the ZIP file, simply click download.
+
+![image](https://user-images.githubusercontent.com/50817966/228744158-2d8447e2-0069-4531-8d70-5c2110e1e2bf.png)
+
+
 #1 Power Automate RPA
 ![image](https://user-images.githubusercontent.com/50817966/227774884-39157ec0-c625-4214-af33-ce8c0bcb699a.png)
 
