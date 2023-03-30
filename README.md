@@ -1,6 +1,6 @@
 #0 Preparation
 
-Go to this URL in browser, https://github.com/vho123/AI
+Open this URL in new browser tab, https://github.com/vho123/AI
 
 CLick on below files,
 
